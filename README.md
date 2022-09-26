@@ -11,3 +11,6 @@ As such, we believe the crypto market needs a volatility index that is decentral
 ## What is CVI?
 Today, we announce exactly that, CVI, a revolutionary and first of its kind decentralized VIX for the crypto market so that traders can hedge themselves against volatility or lack thereof.
 CVI is a full-scale decentralized platform that brings the sophisticated and very popular “market fear index” to the crypto market and is created by computing a decentralized volatility index from cryptocurrency option prices, together with analyzing the market’s expectation of future volatility. We believe that CVI provides the most reliable DeFi tool suitable for analyzing volatility, hedging portfolios and earning from being a liquidity provider.
+
+## Project link
+https://cvi.finance
