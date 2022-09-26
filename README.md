@@ -1,6 +1,6 @@
 # CVI
 CVI is DeFi protocol which is working on several blockchain such as Ethereum, Polygon and Arbitrum.
-All the smart contracts are developed using solidity and frontend is developed using React
+All the smart contracts are developed using solidity and frontend is developed using React.
 With lots of functionalities and so attractive and user-friendly interface, it grows fast and now more than 20000 users using this plateform.
 
 ## Today's DeFi
